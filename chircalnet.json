@@ -1,0 +1,15 @@
+{
+  "nameCompany": "CHIRCALNET TELECOM, C.A",
+  "rifCompany": "J-41042823-6",
+  "directionCompany": "Municipio Naguanagua, Urb. Manantial, Av. Principal c/c Calle 1, Parcela 1B",
+  "phoneCompany": "0241-6180895 /  0241-6180852  /  04144347576",
+  "whatsapp": {
+    "numberPhone": "584143418236",
+    "defaultMessage": "Hola!%20quiero%20hablar%20con%20un%20personal%20de%20Chircalnet"
+  },
+  "paypal": {
+    "percentage": 0.054,
+    "const": 0.30,
+    "maxAmount": 10000
+  }
+}
